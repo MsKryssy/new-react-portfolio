@@ -30,7 +30,7 @@ Feel free to contact me at [Github](https://github.com/MsKryssy/new-react-portfo
 
 https://mskryssy.github.io/new-react-portfolio/
 
-![Screenshot](new-react-portfolio/src/assets/images/react-portfolio.png)
+![react-portfolio](https://github.com/MsKryssy/new-react-portfolio/assets/127256351/2ffac03e-efc6-4982-a539-de1e91c4d42f)
 
 
 
