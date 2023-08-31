@@ -30,5 +30,5 @@ Feel free to contact me at [Github](https://github.com/MsKryssy/new-react-portfo
 
 
 
-![Screenshot](krystalr-portfolio-2.0/src/assets/images/react-portfolio.png)
+![Screenshot](new-react-portfolio/src/assets/images/react-portfolio.png)
 
