@@ -1,0 +1,14 @@
+main h2 {
+    font-size: 3rem;
+}
+
+.lessons {
+    font-size: 2rem;
+}
+
+.KSAs, 
+.list-group.item {
+    background-color: transparent;
+    color: var(--dark);
+    border-color: var(--lighter);
+}
